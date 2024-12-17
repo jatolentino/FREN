@@ -7,7 +7,6 @@
 # license agreement from NVIDIA CORPORATION is strictly prohibited.
 
 """Miscellaneous utility classes and functions."""
-
 import ctypes
 import fnmatch
 import importlib
